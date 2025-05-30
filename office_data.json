@@ -1,0 +1,90 @@
+{
+    "name": "ITI",
+    "employees": [
+        {
+            "name": "Samy",
+            "salary": 2980,
+            "mood": "happy",
+            "healthRate": 100,
+            "id": 1,
+            "email": "Samy@gmail.com",
+            "distanceToWork": 20,
+            "car": {
+                "name": "fiat 128",
+                "fuelRate": 80,
+                "velocity": 100
+            }
+        },
+        {
+            "name": "nayera",
+            "salary": 3210,
+            "mood": "tired",
+            "healthRate": 75,
+            "id": 2,
+            "email": "nayera@yahoo.com",
+            "distanceToWork": 18,
+            "car": {
+                "name": "BMW",
+                "fuelRate": 80,
+                "velocity": 90
+            }
+        },
+        {
+            "name": "Mona",
+            "salary": 3110,
+            "mood": "tired",
+            "healthRate": 80,
+            "id": 3,
+            "email": "mona@outlook.com",
+            "distanceToWork": 15,
+            "car": {
+                "name": "Honda",
+                "fuelRate": 70,
+                "velocity": 80
+            }
+        },
+        {
+            "name": "Ahmed",
+            "salary": 3310,
+            "mood": "happy",
+            "healthRate": 85,
+            "id": 4,
+            "email": "ahmed@gmail.com",
+            "distanceToWork": 10,
+            "car": {
+                "name": "Kia",
+                "fuelRate": 81.0,
+                "velocity": 0
+            }
+        },
+        {
+            "name": "Omar",
+            "salary": 3410,
+            "mood": "tired",
+            "healthRate": 60,
+            "id": 5,
+            "email": "omar@gmail.com",
+            "distanceToWork": 25,
+            "car": {
+                "name": "Ford",
+                "fuelRate": 80,
+                "velocity": 85
+            }
+        },
+        {
+            "name": "Nada",
+            "salary": 3510,
+            "mood": "lazy",
+            "healthRate": 70,
+            "id": 6,
+            "email": "nada@yahoo.com",
+            "distanceToWork": 12,
+            "car": {
+                "name": "Mazda",
+                "fuelRate": 100,
+                "velocity": 100
+            }
+        }
+    ],
+    "employeesNum": 6
+}
